@@ -40,5 +40,5 @@ unserialize(connection, refhook = NULL)
 x<-serialize(list(1,2,3),NULL)
 unserialize(x)
 }
-\keyword{internal}
+\keyword{programming}
 \author{Luke Tierney}
